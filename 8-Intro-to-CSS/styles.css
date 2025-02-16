@@ -1,0 +1,63 @@
+* {
+    color: black;
+}
+
+div {
+    color: purple;
+}
+
+.alert-text {
+    color: red;
+}
+
+.severe-alert {
+    font-size: 50px;
+}
+
+#title {
+    color: black;
+    background-color: red;
+}
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    /* several unique declarations */
+}
+
+.unread {
+    /* several unique declarations */
+}
+
+.subsection.header {
+    color:red;
+}
+
+.subsection#preview {
+    color: blue;
+}
+
+.ancestor .contents {
+    color: black;
+    font-family: "Times New roman", serif;
+    font-size: 30px;
+    font-weight: 700; /* bold */
+    text-align: center;
+}
+
+/* hex, rgb, hsl examples
+p {
+    color: #1100ff;
+    color: rgb(100, 0, 127);
+    color: hsl(15, 82%, 56%);
+}
+*/
+
+img {
+    height: auto;
+    width: 200px;
+}
