@@ -1,0 +1,33 @@
+.subsection {
+    color: blue;
+}
+
+.main .list {
+    color: red;
+}
+
+#subsection {
+    background-color: yellow;
+    color: blue;
+}
+
+.main #subsection {
+    color: red;
+}
+
+#parent {
+    color: red;
+}
+
+.child {
+    color: blue;
+}
+
+.alert {
+    background-color: black;
+    color: red;
+}
+
+.warning {
+    color: yellow;
+}
