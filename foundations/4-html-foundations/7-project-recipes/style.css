@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-size: 64px;
+}
+
+.list {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.subtitle {
+    background-color: darksalmon;
+    color: darkred;
+}
+
+.description {
+    background-color: black;
+    color: antiquewhite;
+    font-weight: 100;
+}
