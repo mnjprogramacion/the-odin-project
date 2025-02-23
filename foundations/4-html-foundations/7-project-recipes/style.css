@@ -4,20 +4,85 @@
 
 .title {
     font-size: 64px;
+    background-color: bisque;
+    padding: 16px;
+    border: 2px solid seagreen;
+    text-align: center;
 }
 
 .list {
     background-color: antiquewhite;
     color: black;
+    padding: 8px;
+    padding-left: 64px;
+    padding-right: 64px;
 }
 
 .subtitle {
     background-color: darksalmon;
     color: darkred;
+    padding: 8px;
+    text-align: center;
+}
+
+.content {
+    display: flex;
 }
 
 .description {
     background-color: black;
     color: antiquewhite;
     font-weight: 100;
+    padding: 8px;
+    display: block;
+}
+
+.description-title {
+    display: inline;
+    padding: 20px;
+}
+
+.description-body {
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.img-div {
+    display: inline-block;
+    margin: 20px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+.lists {
+    background-color: rgb(206, 88, 133);
+    padding: 20px;
+}
+
+.home {
+    padding: 24px;
+    background-color: brown;
+}
+
+a {
+    color: wheat;
+}
+
+.main-list {
+    background-color: brown;
+    color: black;
+    padding: 8px;
+    padding-left: 32px;
+}
+
+.ingredients {
+    display: inline-block;
+}
+
+.steps {
+    display: inline-block;
 }
